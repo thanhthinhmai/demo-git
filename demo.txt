@@ -1,4 +1,4 @@
 Hello git
 hello git2
-hello master
+hello master1
 git2 hello master
