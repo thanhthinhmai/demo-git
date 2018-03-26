@@ -2,4 +2,9 @@ Hello git
 hello git2
 hello master
 git2 hello master
+<<<<<<< HEAD
 12345
+=======
+12345
+
+>>>>>>> fix conflict
